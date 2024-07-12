@@ -1,0 +1,9 @@
+.blog{
+    /* height:150px; */
+    width:40%;
+    background-color: teal;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:#fff;
+}

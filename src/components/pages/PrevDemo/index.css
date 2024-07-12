@@ -1,0 +1,21 @@
+input{
+    margin:0.5em;
+}
+
+main{
+    padding:1em;
+}
+
+input:not([type='color']){
+    width:50%;
+}
+
+.flex-column{
+    display:flex;
+    flex-direction: column;
+}
+
+button{
+    padding:1em;
+    font-weight:1000;
+}

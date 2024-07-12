@@ -1,0 +1,20 @@
+body{
+    padding:1em;
+}
+
+.flex{
+    display:flex;
+}
+
+.flex-col{
+    display:flex;
+    flex-direction: column;
+}
+
+.g-1{
+    gap:1rem;
+}
+
+.main{
+    width:60%;
+}
